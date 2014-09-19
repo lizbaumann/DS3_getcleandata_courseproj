@@ -6,7 +6,8 @@ The goal of this study is to summarizes a subset of sensor data by subject and p
 ## Description of the variables in the output dataset:
 subjectNbr: number identifying a person in the study
 activityName: activity the person was performing: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-66 numeric variables representing the average of a mean or standard deviation variable over the subject / activity combination. The 66 variables are:
+66 numeric variables representing the average of a mean or standard deviation variable over the subject / activity combination. The 66 numeric variables are:
+
  [1] "timeBodyAcc_meanOf_X"           "timeBodyAcc_meanOf_Y"           "timeBodyAcc_meanOf_Z"          
  [4] "timeBodyAcc_stdOf_X"            "timeBodyAcc_stdOf_Y"            "timeBodyAcc_stdOf_Z"           
  [7] "timeGravityAcc_meanOf_X"        "timeGravityAcc_meanOf_Y"        "timeGravityAcc_meanOf_Z"       
